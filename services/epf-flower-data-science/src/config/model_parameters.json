@@ -1,0 +1,5 @@
+{
+    "criterion": "gini",
+    "splitter": "best",
+    "max_depth": null
+}
